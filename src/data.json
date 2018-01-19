@@ -1,0 +1,27 @@
+[
+  {
+    "name": "john",
+    "phone": "555-111-2222",
+    "email": "someemail@gmail.com"
+  },
+  {
+    "name": "adam",
+    "phone": "555-111-2222",
+    "email": "someemail@gmail.com"
+  },
+  {
+    "name": "susan",
+    "phone": "555-111-2222",
+    "email": "someemail@gmail.com"
+  },
+  {
+    "name": "sam",
+    "phone": "555-111-2222",
+    "email": "someemail@gmail.com"
+  },
+  {
+    "name": "bose",
+    "phone": "555-111-2222",
+    "email": "someemail@gmail.com"
+  }
+]
